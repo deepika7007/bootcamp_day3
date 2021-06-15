@@ -45,4 +45,9 @@ dropdown.config(width=21)
 a.set("Select")
 dropdown.grid(row=10,column=1)
 
+Button(window,text="Registration form",width=20,bg="blue",fg="White",font=("bold",10).grid(row=0,column=1)
+Button(window,text="Submit",width=20,bg="blue",fg="white",font=("bold",10).grid(row=15,column=2)
+window.mainloop()
+
+
 
